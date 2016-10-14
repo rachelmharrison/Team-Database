@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TeamDatabase</label>
+	</settings>
+	<users>
+		<user>
+			<path>TeamDatabase.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TeamDatabase.jcp</path>
+		</project>
+	</projects>
+</workspace>
